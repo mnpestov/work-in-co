@@ -1,0 +1,10 @@
+.header {
+    background-image: url(../../images/header_background.jpg);
+    min-height: 655px;
+    max-width: 1440px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
