@@ -1,0 +1,10 @@
+.about__text {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #000000;
+  max-width: 493px;
+  margin: 0 0 25px 0;
+}
